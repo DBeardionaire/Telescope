@@ -1,3 +1,0 @@
-(function(){// SimpleSchema.debug = true;
-
-})();
