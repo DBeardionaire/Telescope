@@ -13,7 +13,7 @@ config.rb
 
 deploy.sh
 
-.demeteorized
+###.demeteorized
 
 dump/
 dump/*
